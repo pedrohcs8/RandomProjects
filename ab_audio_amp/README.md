@@ -1,0 +1,1 @@
+This is a simple design on an AB Amplfier, it can be used with the output of a smartphe and has decent volume with small 4/8 ohm speakers. Quality is not awesome, but is definelty bareble and its pretty simple for what it is, for better gain (and probably quality use a negative supply instead of the voltage divider trick and several other improvements).
