@@ -1,0 +1,1 @@
+This a basic circuit for a soft latch, make sure to use good buttons as this circuit is realy sensitive, in my case im using to turn on a relay board for turning on my soldering station and my lighting with 2 channels (this circuit repeated 2 times).
