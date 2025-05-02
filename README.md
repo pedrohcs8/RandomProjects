@@ -5,4 +5,5 @@ Each project has its own folder containing a schematic and a brief description o
 This repo contains a:
 <br>
 `Class AB Amplifier`
+<br>
 `Soft Latching Circuit`
