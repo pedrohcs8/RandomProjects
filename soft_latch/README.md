@@ -1,1 +1,2 @@
-This a basic circuit for a soft latch, make sure to use good buttons as this circuit is realy sensitive, in my case im using to turn on a relay board for turning on my soldering station and my lighting with 2 channels (this circuit repeated 2 times).
+This a basic circuit for a soft latch, make sure to use good buttons as this circuit is realy sensitive. Also note the lack of a known voltage on the non-inverting pin of the op amp, this introduces some randomness on the circuit, if you dont want it use a resistor divider with equal values.
+In my case im using to turn on a relay board for turning on my soldering station and my lighting with 2 channels (this circuit repeated 2 times).
