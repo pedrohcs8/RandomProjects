@@ -1,1 +1,1 @@
-This is a simple design for a class AB Amplifier, it can be used with the output of a smartphone and has decent volume and quality with small 4/8 ohm speakers from radios or TV's, it can be improved using proper amplification transistors and reducing the output resistors value.
+This is a simple design for a class AB Amplifier, it can be used with the output of a smartphone and has decent volume and quality with small 4/8 ohm speakers from radios or TV's, it can be improved using proper amplification transistors and reducing the output resistors values.
