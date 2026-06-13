@@ -1,0 +1,1 @@
+This is a simple timer circuit made with a microcontroller, display and a RTC for my coffee machine. I didn't use a commercial solution because of my implementation of an arm feature, where I put the coffee by night and arm it for the other day, preventing it from running without water or coffee.
