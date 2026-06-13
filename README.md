@@ -7,3 +7,5 @@ This repo contains a:
 `Class AB Amplifier`
 <br>
 `Soft Latching Circuit`
+<br>
+`RISCV Timer`
